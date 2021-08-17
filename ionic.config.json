@@ -1,0 +1,8 @@
+{
+  "name": "apolloevo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f0a7e832"
+}
